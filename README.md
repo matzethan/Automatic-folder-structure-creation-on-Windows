@@ -1,4 +1,4 @@
-# Automatic Folder Structure Creation on Windows, macOS, and Linux
+# Automatic Folder Structure Creation on Windows, macOS and Linux
 
 This script, when executed, opens a terminal where you can enter your desired path. It generates a `.txt` file with your folder structure neatly organized using tabs.
 
